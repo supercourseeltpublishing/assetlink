@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.qrlaunchapp",
+    "sha256_cert_fingerprints":
+    ["90:F3:AC:25:11:DF:F9:1F:BD:37:74:1F:9B:F5:D2:5C:CF:8D:95:35:3C:A7:62:CC:C9:36:CA:1E:D0:2F:BE:B2"]
+  }
+}]
